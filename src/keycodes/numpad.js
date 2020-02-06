@@ -1,6 +1,6 @@
 export default {
   'numpad *': 106,
-  // 'numpad +': 107,
+  'numpad oldadd': 107,
   'numpad +': 43,
   'numpad add': 43, // as a trick
   'numpad -': 109,
